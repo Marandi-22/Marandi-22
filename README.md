@@ -27,5 +27,10 @@
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/r3wind) 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <img alt="GitHub Snake" src="dist/github-snake.svg" />
+</picture>
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
