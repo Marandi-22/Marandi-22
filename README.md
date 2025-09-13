@@ -23,6 +23,8 @@
   </tr>
 </table>
 
+<p align="center"><em>“Those who dare to go far can only find how far one can go.”</em></p>
+
 ---
 
 ## My Contribution Graph
