@@ -1,4 +1,4 @@
-<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">, I'm Aditya Marandi</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">, I'm Aditya Marandi</h1>
 <h3 align="center">AI/ML Student & Full-Stack Developer from India</h3>
 
 <h4 align="left"> Building Systems, Learning Every Day </h4>
@@ -8,13 +8,12 @@
 - 🌱 I’m currently learning Next.js, React Native, Prisma, tRPC
 - 📫 How to reach me: **glasssywinetree@gmail.com**
 
-
 ---
 
 ## My Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marandi-22/Marandi-22/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marandi-22/Marandi-22/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Marandi-22/Marandi-22/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marandi-22/Marandi-22/master/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marandi-22/Marandi-22/master/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Marandi-22/Marandi-22/master/output/pacman-contribution-graph.svg">
 </picture>
