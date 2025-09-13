@@ -2,7 +2,6 @@
 <h3 align="center">AI/ML Student & Full-Stack Developer from India</h3>
 
 <h4 align="left"> Building Systems, Learning Every Day </h4>
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhyaTQ1YXN0a3hiMHUzNTcwM2hqMDdkaXI5Njk5cXV6c2R6NmU1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp" alt="Coding GIF" height="200" />
 
 - 🔭 I’m currently working on AI and productivity systems (FinWise, QuestPomodoro)
 - 🌱 I’m currently learning Next.js, React Native, Prisma, tRPC
@@ -15,5 +14,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marandi-22/Marandi-22/master/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marandi-22/Marandi-22/master/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Marandi-22/Marandi-22/master/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Marandi-22/Marandi-22/master/output/pacman-contribution-graph.svg" width="100%">
 </picture>
+
+<img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhyaTQ1YXN0a3hiMHUzNTcwM2hqMDdkaXI5Njk5cXV6c2R6NmU1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp" alt="Coding GIF" height="200" style="display:block; margin:auto;" />
