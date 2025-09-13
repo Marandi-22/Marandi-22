@@ -9,7 +9,7 @@
 <b>Building Systems, Learning Every Day</b><br>
 <ul>
   <li>🔭 I’m currently working on AI and productivity systems (FinWise, QuestPomodoro)</li>
-  <li>🌱 I’m currently learning Next.js, React Native, Prisma, tRPC</li>
+  <li>🌱 I’m currently learning <b>Python, PyTorch, TensorFlow</b> and <b>FastAPI</b> for ML and AI projects</li>
   <li>📫 How to reach me: <b>glasssywinetree@gmail.com</b></li>
 </ul>
     </td>
