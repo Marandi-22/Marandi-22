@@ -24,5 +24,5 @@
 
 ---
 
-## My Contribution Graph
+## Dun dun dunnn
 <img src="https://raw.githubusercontent.com/Marandi-22/Marandi-22/master/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" width="100%">
